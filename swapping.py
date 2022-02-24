@@ -1,0 +1,10 @@
+print(print("vishal"))
+print("vishal")
+print("indian")
+print("vishal",end=" ")
+print("indian")
+a=int(input("enter first no"))
+b=int(input("enter second no"))
+a,b=b,a
+print("a=",a)
+print("b=",b)
